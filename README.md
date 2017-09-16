@@ -1,7 +1,7 @@
-#Kazumi-Tools
-自用 Android 工具类，存档用意。  
+##Kazumi-Tools
+自用 Android 工具类，存档用意。
   
-####AntiMultipleClicksUtil
+###AntiMultipleClicksUtil
 防止多次点击产生重复点击事件。  
 
 <pre>
